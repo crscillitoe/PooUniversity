@@ -1,0 +1,15 @@
+<div class="banner">
+    <button mat-raised-button class="title">
+        <h1 class="button-text">
+            Take your League of Legends to the next level...
+        </h1>
+    </button>
+</div>
+
+<div class="poo-cards">
+    <ng-container *ngFor="let pooer of pooers">
+        <poo-card
+            [pooNumber]="pooer"
+            class="poo-card"></poo-card>
+    </ng-container>
+</div>

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
+
+.center {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.name {
+    text-align: center;
+    font-family: 'Mansalva', cursive;
+}

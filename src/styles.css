@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.poo {
+    background: #6d4c41;
+}
+
+.text {
+    color: white;
+}
+
+html {
+    background: #9c786c;
+}
+
+* {
+    font-family: 'Oswald', sans-serif;
+}

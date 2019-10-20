@@ -12,4 +12,5 @@
     height: calc(100vh - 5rem);
     top: 5rem;
     left: 0px;
+    overflow-y: auto;
 }
